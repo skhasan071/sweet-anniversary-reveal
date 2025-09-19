@@ -1,32 +1,35 @@
 import { Card } from '@/components/ui/card';
-import memory1 from '@/assets/memory1.jpg';
-import memory2 from '@/assets/memory2.jpg';
-import memory3 from '@/assets/memory3.jpg';
+import memory1 from '@/assets/memory5.png';
+import memory2 from '@/assets/memory6.png';
+import memory3 from '@/assets/memory7.jpg';
+import memory4 from '@/assets/memory8.png';
+import memory5 from '@/assets/memory9.png';
+import memory6 from '@/assets/memory10.png';
 
 const memories = [
   {
     image: memory1,
-    quote: "The moment I knew you were the one - sitting across from you at that little café, watching you laugh at my terrible jokes."
+    quote: "So many selfies, we collect, each of them are just perfect."
   },
   {
     image: memory2,
-    quote: "Walking hand in hand as the sun painted the sky in shades of gold, I realized every sunset is more beautiful with you."
+    quote: "So many laughs, we had, each of them are just beautiful."
   },
   {
     image: memory3,
-    quote: "Dancing with you on our wedding day, time stood still and all that mattered was this perfect moment."
+    quote: "So many smiles, we had, each of them are just priceless."
   },
   {
-    image: memory1,
-    quote: "Every ordinary day becomes extraordinary when I'm with you. You make life feel like a beautiful adventure."
+    image: memory4,
+    quote: "So many kisses, we did, each of them are just lovely."
   },
   {
-    image: memory2,
-    quote: "In your arms, I found my home. In your eyes, I found my future. In your heart, I found my love."
+    image: memory5,
+    quote: "So many places, we explore, each of them are just memorable."
   },
   {
-    image: memory3,
-    quote: "Years may pass and seasons may change, but my love for you grows stronger with each heartbeat."
+    image: memory6,
+    quote: "So many foods, we tried, each of them are just delicious."
   }
 ];
 

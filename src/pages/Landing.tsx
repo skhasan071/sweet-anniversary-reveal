@@ -30,9 +30,9 @@ const Landing = () => {
             Awaits You
           </h2>
           
-          <p className="font-sans text-lg md:text-xl text-muted-foreground mb-12 max-w-md mx-auto leading-relaxed">
+          {/* <p className="font-sans text-lg md:text-xl text-muted-foreground mb-12 max-w-md mx-auto leading-relaxed">
             A journey through our most cherished memories and a surprise that will warm your heart
-          </p>
+          </p> */}
           
           <Button
             onClick={handleBegin}

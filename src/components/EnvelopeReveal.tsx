@@ -13,16 +13,20 @@ export const EnvelopeReveal = () => {
     setTimeout(() => setShowHearts(true), 800);
   };
 
-  const loveLetterText = `My Dearest Love,
+  const loveLetterText = `My Dearest Baeby,
 
-Every day with you feels like a beautiful dream that I never want to wake up from. You are my sunshine on cloudy days, my anchor in stormy seas, and my greatest adventure.
+On 19th September 2022, I first saw you, and on the next day we first time have a short talk. The turning point of my life. We collected so many memories from that day until now. Every moment with you is just blessing for me.
 
-Thank you for filling my life with laughter, love, and countless precious memories. Here's to many more years of growing old together, creating new memories, and loving each other more deeply with each passing day.
+Thank you for being there with me always, you helped me so much throughout my college life & now also if you can't do physically you're alway there whenever I need you. I can't express how much you mean to me and that day when you first reply to me. Everything is just dream come true for me. If this is a dream, I wish I never wake up.
 
-You are my forever and always.
+I love you, and I love you itna that I can never express in words. You are my sunshine, my bestfriend, my everything. I promise to always be there for you, to support you, and to love you unconditionally.
 
-With all my love,
-Your Devoted Partner 💕`;
+You are my forever and I really look forward to make this 3 years to 30 years to 300 years & to keep it till eternity.
+
+I love you my baeby. Happy Anniversary! 💖
+
+Mera gudiya, Meri baeby.
+Happy Anniversary! 💕`;
 
   return (
     <div className="relative flex flex-col items-center">

@@ -1,14 +1,16 @@
 import { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import memory1 from '@/assets/memory1.jpg';
-import memory2 from '@/assets/memory2.jpg';
-import memory3 from '@/assets/memory3.jpg';
+import memory1 from '@/assets/memory1.png';
+import memory2 from '@/assets/memory2.png';
+import memory3 from '@/assets/memory3.png';
+import memory4 from '@/assets/memory4.png';
 
 const memories = [
-  { image: memory1, caption: "Our First Date" },
-  { image: memory2, caption: "Beach Sunset Walk" },
-  { image: memory3, caption: "Dancing Together" }
+  { image: memory1, caption: "Our First Movie Date" },
+  { image: memory2, caption: "Our First Home Visit" },
+  { image: memory3, caption: "Our First Trek" },
+  { image: memory4, caption: "Our First Mall Date" },
 ];
 
 export const ImageCarousel = () => {
