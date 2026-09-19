@@ -1,10 +1,9 @@
 import { ImageCarousel } from '@/components/ImageCarousel';
 import { EnvelopeReveal } from '@/components/EnvelopeReveal';
-import { MessageReveal } from '@/components/MessageReveal';
 import { FloatingHearts } from '@/components/FloatingHearts';
 import { MemoryGrid } from '@/components/MemoryGrid';
 
-const Anniversary = () => {
+const Message = () => {
   return (
     <div className="min-h-screen bg-gradient-subtle">
       <FloatingHearts />
@@ -52,18 +51,8 @@ const Anniversary = () => {
           </p>
         </div>
       </section>
-
-
-      <section className="py-20 px-4 bg-gradient-romantic">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="font-serif text-3xl md:text-4xl font-semibold text-primary mb-12 animate-fade-in-up">
-            The Updated Message
-          </h2>
-          <MessageReveal />
-        </div>
-      </section>
     </div>
   );
 };
 
-export default Anniversary;
+export default Message;
