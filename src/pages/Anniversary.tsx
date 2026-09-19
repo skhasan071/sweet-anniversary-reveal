@@ -57,7 +57,7 @@ const Anniversary = () => {
       <section className="py-20 px-4 bg-gradient-romantic">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="font-serif text-3xl md:text-4xl font-semibold text-primary mb-12 animate-fade-in-up">
-            The Updated Message
+            The Ending for 4 years journey
           </h2>
           <MessageReveal />
         </div>

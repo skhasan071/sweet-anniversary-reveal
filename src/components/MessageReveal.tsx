@@ -76,7 +76,7 @@ Happy Anniversary! 💕`;
           onClick={handleReveal}
           className="bg-gradient-love hover:shadow-floating transition-all duration-300 transform hover:scale-105 text-white font-serif text-lg px-8 py-3 rounded-full"
         >
-          Reveal Surprise 💌
+          My Last Request 💌
         </Button>
       )}
 
